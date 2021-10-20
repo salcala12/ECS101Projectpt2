@@ -1,6 +1,6 @@
 # ECS101Projectpt2
-Shaw 3344
-Binary to Text
+# Shaw 3344
+# Binary to Text
 
 def binary_to_text(numbers :str)->str:
    text = ""
